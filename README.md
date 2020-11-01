@@ -1,2 +1,0 @@
-# HugeNumberCalculator
-Project HugeNumberCalculator
