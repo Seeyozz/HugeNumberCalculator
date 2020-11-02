@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include "HugeFloatOperator.h"
 
-HugeFloat* addHugeFloat (const HugeFloat* operand1, const HugeFloat* operand2) {
+HugeFloat* addHugeFloat (const HugeFloat* operand1, const HugeFloat* operand2) 
+{
     return NULL;
 }
 
